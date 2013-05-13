@@ -1,0 +1,5 @@
+#!/bin/sh
+# Modified by Paul Shaiju (Paul S)
+# Email-id : paultsr@gmail.com
+# Website : http://paultsr.in
+java -jar /usr/local/ns-allinone-2.35/bin/nsg2.jar

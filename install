@@ -716,6 +716,8 @@ echo "gt-itm:   $CUR_PATH/itm, edriver, sgb2alt, sgb2ns, sgb2comns, sgb2hierns"
 fi
 
 sudo cp /usr/local/ns-allinone-2.35/paultsr/set/ns2.sh /etc/profile.d/.
+sudo cp /usr/local/ns-allinone-2.35/paultsr/set/nsg.sh /usr/local/ns-allinone-2.35/bin/.
+sudo cp /usr/local/ns-allinone-2.35/paultsr/set/nsg2.jar /usr/local/ns-allinone-2.35/bin/.
 sudo chmod -R 777 paultsr/
 
 echo ""
