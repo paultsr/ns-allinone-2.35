@@ -34,7 +34,8 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 
 {% img center http://paultsr.in/images/mannasim/ns8.png %}
 
-{% img center ttp://paultsr.in/images/mannasim/ns9.png %}
+
+![My image](paultsr.github.com/paultsr.github.com/images/mannasim/ns9.png)
 
 {% img center http://paultsr.in/images/mannasim/ns10.png %}
 
