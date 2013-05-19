@@ -18,26 +18,25 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 
 **Screen Shots**
 
-{% img center http://paultsr.in/images/mannasim/ns1.png  %}
+![Pic 1](http://paultsr.in/images/mannasim/ns1.png)
 
-{% img center http://paultsr.in/images/mannasim/ns2.png %}
+![Pic 2](http://paultsr.in/images/mannasim/ns2.png)
 
-{% img center http://paultsr.in/images/mannasim/ns3.png %}
+![Pic 3](http://paultsr.in/images/mannasim/ns3.png)
 
-{% img center http://paultsr.in/images/mannasim/ns4.png %}
+![Pic 4](http://paultsr.in/images/mannasim/ns4.png)
 
-{% img center http://paultsr.in/images/mannasim/ns5.png %}
+![Pic 5](http://paultsr.in/images/mannasim/ns5.png)
 
-{% img center http://paultsr.in/images/mannasim/ns6.png %}
+![Pic 6](http://paultsr.in/images/mannasim/ns6.png)
 
-{% img center http://paultsr.in/images/mannasim/ns7.png %}
+![Pic 7](http://paultsr.in/images/mannasim/ns7.png)
 
-{% img center http://paultsr.in/images/mannasim/ns8.png %}
+![Pic 8](http://paultsr.in/images/mannasim/ns8.png)
 
+![Pic 9](http://paultsr.in/images/mannasim/ns9.png)
 
-![My image](paultsr.github.com/blob/master/images/mannasim/ns9.png)
-
-{% img center http://paultsr.in/images/mannasim/ns10.png %}
+![Pic 10](http://paultsr.in/images/mannasim/ns10.png)
 
 
 
