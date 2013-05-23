@@ -9,7 +9,7 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 ( open up the terminal and paste the following commands one by one )
 
 1. `cd`
-2. `sudo apt-get install zlib1g-dev openssl libopenssl-ruby1.9.1 libssl-dev libruby1.9.1 libreadline-dev git-core`
+2. `sudo apt-get update && sudo apt-get install build-essential autoconf automake libxmu-dev git openjdk-7-jre`
 3. `cd /usr/local/`
 4. `sudo git clone git://github.com/paultsr/ns-allinone-2.35.git`
 5. `cd ns-allinone-2.35/`
