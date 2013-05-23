@@ -18,7 +18,7 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 
 *Sample ns2 programs are available in your home folder: ~/ns2/programs*
 
-*NSG ia a GUI tool for designing wired/wireless networks.Execution command : nsg*
+*NSG ia a GUI tool for designing wired/wireless networks. Execution command : nsg*
 
 *NSG documentation is available in your home folder: ~/ns2/docs*
 
