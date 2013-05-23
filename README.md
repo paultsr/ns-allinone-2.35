@@ -14,7 +14,13 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 4. `sudo git clone git://github.com/paultsr/ns-allinone-2.35.git`
 5. `cd ns-allinone-2.35/`
 6. `sudo ./install`
-7. `source /etc/profile.d/ns2.sh`
+7. `close the TERMINAL`
+
+*Sample ns2 programs are available in your home folder: ~/ns2/programs*
+
+*NSG ia a GUI tool for designing wired/wireless networks.Execution command : nsg*
+
+*NSG documentation is available in your home folder: ~/ns2/docs*
 
 **Screen Shots**
 
@@ -37,6 +43,8 @@ How to install NS2.35 with Mannasim in Ubuntu 13.04
 ![Pic 9](http://paultsr.in/images/mannasim/ns9.png)
 
 ![Pic 10](http://paultsr.in/images/mannasim/ns10.png)
+
+![Pic 11](http://paultsr.in/images/mannasim/ns11.png)
 
 
 
