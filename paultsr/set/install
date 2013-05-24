@@ -720,6 +720,12 @@ sudo cp /usr/local/ns-allinone-2.35/paultsr/set/nsg /usr/local/ns-allinone-2.35/
 sudo cp /usr/local/ns-allinone-2.35/paultsr/set/nsg2.jar /usr/local/ns-allinone-2.35/bin/.
 sudo chmod -R 777 /usr/local/ns-allinone-2.35/paultsr/
 sudo /usr/local/ns-allinone-2.35/paultsr/set/ns2s.sh
+mkdir -p ~/ns2/programs
+mkdir -p ~/ns2/docs
+cp /usr/local/ns-allinone-2.35/paultsr/sample-codes/*.* ~/ns2/programs/
+cp /usr/local/ns-allinone-2.35/paultsr/docs/NSG/*.* ~/ns2/docs/
+sudo chmod -R 777 ~/ns2/
+
 
 echo ""
 echo "----------------------------------------------------------------------------------"
@@ -727,14 +733,26 @@ echo ""
 echo -e "\033[1m * Modified By Paul Shaiju (Paul S) \033[0m"
 echo -e "\033[1m * Website : http://paultsr.in \033[0m"
 echo -e "\033[1m * Email-id : paultsr@gmail.com \033[0m"
-echo -e "\033[34m Type the following command after the installation \033[0m"
-echo -e "\033[31m source /etc/profile.d/ns2.sh \033[0m"
-echo -e "\033[34m Sample ns2 programs are available in /usr/local/ns-allinone-2.35/paultsr/sample-codes/ \033[0m"
+#echo -e "\033[34m Type the following command after the installation \033[0m"
+#echo -e "\033[31m source /etc/profile.d/ns2.sh \033[0m"
+echo -e "\033[31m CLOSE the TERMINAL \033[0m"
+echo -e "\033[34m Sample ns2 programs are available in your home folder: ~/ns2/programs \033[0m"
 echo -e "\033[34m ns2 programs can be stored and executed from any folder using ns yourprogram.tcl \033[0m"
+echo -e "\033[34m NSG ia a GUI tool for designing wired/wireless networks.Execution command : nsg \033[0m"
+echo -e "\033[34m NSG documentation is available in your home folder: ~/ns2/docs \033[0m"
 echo "----------------------------------------------------------------------------------"
 echo ""
 echo "For trouble shooting, please visit my site "
 echo -e "\033[34m http://paultsr.in \033[0m"
 echo ""
 
+#sleep 5
+#setsid gnome-terminal --working-directory=ns2/programs/
+#pppid=`ps -p $PPID -o ppid=`
+#kill $pppid
+#kill -9 $PPID
+#/usr/bin/firefox -new-tab http://paultsr.in
+#kill -9 -1
+
 exit 0
+
